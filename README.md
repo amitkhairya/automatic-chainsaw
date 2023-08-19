@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Khairya</h1>
+!https://github.com/amitkhairya/automatic-chainsaw/blob/main/.gitignore<h1 align="center">Hi 👋, I'm Amit Khairya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw2ONq7Iu_2qxPTeUw-OGfr1&ust=1692541067406000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjmuvr06IADFQAAAAAdAAAAABAQ
 
